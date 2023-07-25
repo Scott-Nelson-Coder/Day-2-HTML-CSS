@@ -1,0 +1,31 @@
+header {
+    background-color: #444444;
+    height: 142px;
+    width: 100vw;
+}
+
+#light-grey {
+    background-color: lightgray;
+    height: 100vw;
+    width: 100vw;
+    
+}
+
+#box-1 {
+    background-color: #EFEFEF;
+    position: relative;
+    height: 90vw;
+    width: 70vw;
+    left: 120px;
+    
+}
+
+#box-2 {
+    background-color: #222222 ;
+    position: relative;
+    height: 100px;
+    width: 70vw;
+    left: 120px;
+    bottom: 0px;
+}
+

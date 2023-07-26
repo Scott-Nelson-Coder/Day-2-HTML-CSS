@@ -1,0 +1,64 @@
+header{
+    background-color: #D8D8D8 ;
+    position: relative;
+    width: 100vw;
+    height: 111px;
+}
+
+header > div {
+    background-color: #658BD9;
+    position: relative;
+    top: 20px;
+    left: 20px;
+    width: 70px;
+    height: 70px;
+    
+}
+
+#white-space  {
+    height: 243px;
+    padding: 30px;
+}
+
+#p1 {
+    padding-bottom: 25px;
+
+}
+
+#div1 {
+    background-color: #658BD8 ;
+    height:24vw
+}
+
+#div2 {
+    background-color: #7CDDC4;
+    height:24vw
+}
+
+#div3 {
+    background-color: #C7E796;
+    height:24vw
+}
+
+#div4 {
+    background-color: #F3E962;
+    height: 24vw
+
+}
+
+.question-mark {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.question-mark button {
+    height: 60px;
+    width: 60px;
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 50%;
+    font-size: 30px;
+
+}
